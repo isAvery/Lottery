@@ -1,0 +1,1 @@
+[{"className":"LotteryNumbersTest","methodName":"testOne","pointNames":["82"],"message":"timeout","status":"FAILED"},{"className":"LotteryNumbersTest","methodName":"testDrawNumbersCallRemovesOldNumbersAndDrawsNew","pointNames":["82"],"status":"NOT_STARTED"},{"className":"LotteryNumbersTest","methodName":"testMany","pointNames":["82"],"status":"NOT_STARTED"}]
